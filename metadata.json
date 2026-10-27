@@ -1,0 +1,6 @@
+{
+  "name": "Nails by Love | Luxury Nail Artist NE Calgary",
+  "description": "Luxury Nail Artist based in Northeast Calgary specializing in GelX, BIAB, and Shellac nail art. Book appointments, view service menus, and shop nail tech favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
